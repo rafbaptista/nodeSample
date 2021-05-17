@@ -1,1 +1,1 @@
-simple express api application with express, validatorjs, mongoose and jwt
+simple express api application with express, validatorjs, mongoose (mongoDB atlas) and jwt
